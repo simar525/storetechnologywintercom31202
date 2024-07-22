@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ecommercetoday-w1bvq.wstd.io/$1"
+ }
+  ]
+}
